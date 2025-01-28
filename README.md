@@ -15,6 +15,9 @@
 - The probability of customers' churn is high, review the retention strategies.  
 - Expand Market reach, explore African market for wider reach to attract new customers.
 - Conduct customer satisfaction survey to understand if the products are expensive, low quality and what they actually want.
+## Limitations
+- The values do not have unit of currency. 
+- The type of shop is not stated whether it is an online or onsite shop. 
 
 
 
