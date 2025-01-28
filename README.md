@@ -1,1 +1,21 @@
 # Power-BI-Analysis-of-Customers-Insights
+## Project Objectives
+1. Understand the company’s sales data, customer behaviors, and market trends.
+2. Analyze the customers and sales according to  regions, total number of customers, volume of sales, and customers' churn probability.
+3. Analyze the customers and sales according to  regions, total number of customers, volume of sales, and customers' churn probability.
+4. Explore relationship between churn probability and the retention strategies. 
+## Methodology
+- Import the dataset into Power BI Desktop. 
+- Study the dataset, "Sales and customers insights".csv dataset to define objectives.
+- Clean the dataset by checking and removing duplicates, create calculated column, and date table. 
+- Create fact table and dimension tables forming a star model. 
+- Use Data Analysis Expressions (DAX) to create measures such as total customers, churn rate.
+## Recommendations
+- Conduct survey to understand customer’s need and preference, get customers feedback for insights. 
+- The probability of customers' churn is high, review the retention strategies.  
+- Expand Market reach, explore African market for wider reach to attract new customers.
+- Conduct customer satisfaction survey to understand if the products are expensive, low quality and what they actually want.
+
+
+
+
