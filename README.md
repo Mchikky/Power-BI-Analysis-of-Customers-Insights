@@ -1,4 +1,5 @@
-# Power-BI-Analysis-of-Customers-Insights
+# Power-BI-Customers-Sales-Insights
+Analysing customers and sales data to understand churn probability 
 ## Project Objectives
 1. Understand the company’s sales data, customer behaviors, and market trends.
 2. Analyze the customers and sales according to  regions, total number of customers, volume of sales, and customers' churn probability.
