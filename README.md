@@ -13,6 +13,8 @@ Analysing customers and sales data to understand churn probability
 - Use Data Analysis Expressions (DAX) to create measures such as total customers, churn rate.
   
 ## Insights
+<img width="1322" alt="eattrition" src="https://github.com/user-attachments/assets/608b0c8f-2abf-43f3-87b3-28876779ca57" />
+
 https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/PowerBI_Dashboard_SALES%20Analysis.PNG
 https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/Power%20BI_Dashboard_CUSTOMERS%20Analysis.PNG
 https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/PowerBI_Dashboard_CUSTOMERS%20Churn%20Analysis.PNG
