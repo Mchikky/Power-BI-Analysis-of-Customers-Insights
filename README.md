@@ -11,6 +11,9 @@ Analysing customers and sales data to understand churn probability
 - Clean the dataset by checking and removing duplicates, create calculated column, and date table. 
 - Create fact table and dimension tables forming a star model. 
 - Use Data Analysis Expressions (DAX) to create measures such as total customers, churn rate.
+## Insights
+https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/Power%20BI_Dashboard_CUSTOMERS%20Analysis.PNG
+
 ## Recommendations
 - Conduct survey to understand customer’s need and preference, get customers feedback for insights. 
 - The probability of customers' churn is high, review the retention strategies.  
@@ -20,7 +23,7 @@ Analysing customers and sales data to understand churn probability
 - The values do not have unit of currency. 
 - The type of shop is not stated whether it is an online or onsite shop.
 
-https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/Power%20BI_Dashboard_CUSTOMERS%20Analysis.PNG
+
 
 
 
