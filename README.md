@@ -21,6 +21,7 @@ https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/Pow
 ![PowerBI_Dashboard_SALES Analysis](https://github.com/user-attachments/assets/b1b33aa5-33b0-4d93-9caf-07908c9ab520)
 
 https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/PowerBI_Dashboard_SALES%20Analysis.PNG
+
 ![PowerBI_Dashboard_CUSTOMERS Churn Analysis](https://github.com/user-attachments/assets/20ab18df-015b-497b-b8a4-ebcc0c2e6ea7)
 
 https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/PowerBI_Dashboard_CUSTOMERS%20Churn%20Analysis.PNG
