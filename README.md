@@ -18,7 +18,9 @@ Analysing customers and sales data to understand churn probability
 - Conduct customer satisfaction survey to understand if the products are expensive, low quality and what they actually want.
 ## Limitations
 - The values do not have unit of currency. 
-- The type of shop is not stated whether it is an online or onsite shop. 
+- The type of shop is not stated whether it is an online or onsite shop.
+
+https://github.com/Mchikky/Power-BI-Analysis-of-Customers-Insights/blob/main/Power%20BI_Dashboard_CUSTOMERS%20Analysis.PNG
 
 
 
